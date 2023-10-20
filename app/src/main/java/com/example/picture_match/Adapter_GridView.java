@@ -108,6 +108,9 @@ public class Adapter_GridView extends BaseAdapter {
                         {
                             cancel();
                         }
+                        else {
+
+                        }
                     }
 
                     @Override
