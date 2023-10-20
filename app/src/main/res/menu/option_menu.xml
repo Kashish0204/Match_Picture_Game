@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_sound"
+        android:title="SOUND"
+        android:icon="@android:drawable/ic_lock_silent_mode_off"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_share"
+        android:title="SHARE" />
+    <item
+        android:id="@+id/menu_moregame"
+        android:title="MORE GAME" />
+    <item
+        android:id="@+id/menu_privacypolicy"
+        android:title="PRIVACY POLICY" />
+</menu>
